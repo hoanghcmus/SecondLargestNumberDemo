@@ -2,6 +2,7 @@
 Findout and print the second largest number in an array of number
 
 ALGORITHM
+
 Step 1:
 
     Iterate the given array
